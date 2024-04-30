@@ -1,0 +1,97 @@
+body{
+    background-color:rgb(234, 233, 238);
+}
+img{
+    width: 600px;
+    height: 655px;
+    float: right;
+    margin: 0px 0px 0px 200px;
+}
+.bdy{
+    border:1px solid white;
+    margin:40px 0px 0px 50px;
+    background-color: white;
+    width:87%;
+    height:200%;
+}
+.circle{
+    border-radius: 50px;
+    border: 1px solid salmon;
+    width:20px;
+    height: 20px;
+    margin:6px 0px 0px 70px;
+    float:bottom;
+    position: absolute;
+    
+}
+
+h2{
+    font-size: 100px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-transform: uppercase;
+    margin:0px 9px 0px 70px;
+}
+.sal{
+    color: salmon;
+    margin-top: 20px;
+}
+#eml{
+    border:1px solid salmon;
+    border-radius:15px;
+    width:500px;
+    height:15px;
+    padding: 4px;
+    margin:55px 0px 40px 40px;
+    z-index: -1px;
+    overflow: auto;
+}
+.gre{
+    background-color: salmon;
+    color: white;
+    text-align: center;
+    border:1px solid salmon;
+    border-radius: 15px;
+    width: 40px;
+    height: 23px;
+    margin:50px 0px 0px 539px;
+    padding: 4px;
+    justify-content:left;
+    float: left;
+    z-index: -1px;
+    position: fixed;
+    
+}
+ p{
+    color: black;
+    margin:0px 30px 0px 70px;
+    font-size: 15px;
+    font-weight: 10px;
+    text-transform: uppercase;
+}
+.int{
+    display: flex;
+    position: left;
+}
+.ad{
+    margin-top:20px;
+}
+.ph{
+    text-transform: capitalize;
+    line-height: 50px;
+    color: salmon;
+}
+.pba{
+    margin: 0px 0px 10px 30px;
+}
+.emi{
+    display:inline-block;
+    position:relative;
+    left:0px;
+    width:500px;
+    justify-content:center;
+    margin:0px 0px 0px 40px;
+    z-index: -4px;
+    
+}
+
+
